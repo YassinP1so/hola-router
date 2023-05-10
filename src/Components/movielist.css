@@ -1,0 +1,11 @@
+.movielist{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color : black;
+    border-radius: 20px;
+}
+button{
+    border: 1px solid black;
+}
